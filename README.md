@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Qn4l
+- 👋 Hi, I’m Kunal Chauhan @Qn4l A Final Year CS Student.
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Azure Cloud
-- 💞️ I’m looking to collaborate on 'missing'
+- 🌱 I’m currently learning Azure and AWS Cloud
 - 📫 How to reach me: kunal.chauhan19@comp.sce.edu.in
 singhrn28@gmail.com
 Ig: qu33n4l
